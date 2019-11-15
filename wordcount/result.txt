@@ -1,0 +1,8 @@
+very	1
+how	1
+is	3
+she	2
+today	3
+nice	2
+a	1
+day	1

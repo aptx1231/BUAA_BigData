@@ -1,0 +1,9 @@
+*.ppt
+*.pptx
+*.doc
+*.docx
+*.ipynb
+*.zip
+*.rar
+/hadoop_BUAA
+/SparkJavaExamples
